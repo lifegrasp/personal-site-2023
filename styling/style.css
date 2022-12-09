@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap");
+body {
+  font-family: "Syne Mono", monospace;
+  font-weight: bolder;
+}
+body header {
+  border-bottom: solid 1px;
+}/*# sourceMappingURL=style.css.map */
