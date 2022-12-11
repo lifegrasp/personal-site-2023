@@ -1,8 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap");
 body {
+  margin: 0;
+  padding: 0;
   font-family: "Syne Mono", monospace;
   font-weight: bolder;
+  background-image: url("../assets/straws.png");
 }
 body header {
-  border-bottom: solid 1px;
+  border-bottom: solid grey 2px;
+}
+body header ul {
+  margin: 3px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  gap: 8px;
 }/*# sourceMappingURL=style.css.map */
