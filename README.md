@@ -6,7 +6,10 @@
 
 A 2023 personal site project. This type of project will be re-occuring yearly to see the progress that I will be making.
 
-I'm interested in adding blogging features for the project.
+### Features to add soon
+
+- Blogging
+- A place to download my resume
 
 ## Technologies
 
